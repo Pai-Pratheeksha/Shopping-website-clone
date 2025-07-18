@@ -27,4 +27,4 @@ All trademarks and content belong to their respective owners.
 ![Homepage Preview](assets/shopping_clone_project.png)
 ![Homepage Preview](assets/shopping_clone2.png)
 ![Homepage Preview](assets/shopping_clone3.png)
-![Homepage Preview](assets/shopping_clone4.png)
+![Homepage Preview](assets/Shopping_clone4.png)
