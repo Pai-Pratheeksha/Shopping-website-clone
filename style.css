@@ -23,8 +23,9 @@
 .logo {
     height: 3.1rem;
     width: 100%;
-    background-image: url(https://koto.studio/wp-content/uploads/2025/04/Amazon_CS_01_Intro_00_Thumbnail.jpg);
-    background-size: cover;
+    background-image: url("assets/shop_homepage.png");
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
 .border {
@@ -190,9 +191,11 @@
 /* hero-section */
 
 .hero-section {
-    background-image: url(https://m.media-amazon.com/images/I/619geyiQI5L._SX3000_.jpg);
-    background-size: cover;
-    height: 20rem;
+    background-image: url(assets/kitchen_essentials.jpg);
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 26rem;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -306,6 +309,12 @@ h2{
 .popular-items {
     display: flex;
     justify-content: space-around;
+    align-items: center;
+}
+
+.popular-items img{
+    height: 12rem;
+    width: 14rem;
 }
 
 
@@ -458,4 +467,8 @@ li {
     text-decoration: none;
     color: #DDDDDD;
     font-size: .87rem;
+}
+
+.foot-cpyryt a{
+    color: #DDDDDD;
 }
