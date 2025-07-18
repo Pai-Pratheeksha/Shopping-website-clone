@@ -21,3 +21,10 @@ This project is created **purely for educational and portfolio purposes** to dem
 This project is an educational clone of the Amazon homepage UI.
 It is not affiliated with, endorsed by, or associated with Amazon.com, Inc.
 All trademarks and content belong to their respective owners.
+
+# Screenshots
+
+![Homepage Preview](assets/shopping_clone_project.png)
+![Homepage Preview](assets/shopping_clone2.png)
+![Homepage Preview](assets/shopping_clone3.png)
+![Homepage Preview](assets/shopping_clone4.png)
